@@ -1,0 +1,8 @@
+pages\AddToCard.class
+pages\InvalidLoginPage.class
+stepDefinition\LogInStep.class
+stepDefinition\ProductBrowsingStep.class
+pages\LoginPage.class
+stepDefinition\AddToCartStep.class
+stepDefinition\InvalidLoginStep.class
+pages\ProductBrowsingPage.class
